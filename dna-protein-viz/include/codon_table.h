@@ -41,6 +41,9 @@ public:
     std::string getStartCodon() const; //Get the start Codon 
     std::vector<std::string> getStopCodons() const; //Get the stop Codons
 
+
+    std::string getAminoAcidName(char aminoAcid) const;
+
     
 };
 
