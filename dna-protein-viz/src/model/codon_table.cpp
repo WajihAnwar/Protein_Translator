@@ -1,4 +1,4 @@
-#include "codon_table.h"
+#include "model/codon_table.h"
 
 /**
  * Constructor - initializes the genetic code table
